@@ -1,0 +1,7 @@
+[user]
+	name = moheynasir-ctrl
+	email = moheynasir@gmail.com
+[credential]
+	helper = store
+[advice]
+	defaultBranchName = false
